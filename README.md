@@ -13,7 +13,7 @@ Currently a student 👨‍🎓 I am learning new technologies and improving mys
 ```
 Maulana Abul Kalam Azad University of Technology, West Bengal
 ```
-Formerly West Bengal University of Technology
+Formerly _West Bengal University of Technology_
 
 
 ## 🔗 Links
@@ -28,12 +28,10 @@ Formerly West Bengal University of Technology
 ```https://twitter.com/sadhu_subha```
 
 ## 🛠 Skills
-
 - general programming
-- - Web development
+- Web development
 - Cross-platform Development
 - competitive programming
-
 
 ## 🧑‍💻Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,javascript)](https://skillicons.dev)
