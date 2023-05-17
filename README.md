@@ -31,7 +31,7 @@ Formerly _West Bengal University of Technology_
 - general programming
 - Web development
 - Cross-platform Development
-- competitive programming
+
 
 ## 🧑‍💻Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,javascript)](https://skillicons.dev)
