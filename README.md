@@ -1,9 +1,9 @@
 
-# Hi, I'm Subha Sadhu! 👋
+# Hi, I'm Subha 👋
 
 
 ## 🚀 About Me
-I'm an aspiring full stack developer 🧑‍💻 . 
+I'm an aspiring Full Stack developer 🧑‍💻 . 
 
 Currently a student 👨‍🎓 I am learning new technologies and improving myself everyday.
 
