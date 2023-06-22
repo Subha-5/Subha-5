@@ -68,7 +68,7 @@ Formerly _West Bengal University of Technology_
       <td align="center">Python<br>
         <span align="center"><img src="https://skillicons.dev/icons?i=python"/></span>
         </td>
-       <td align="center">Python<br>
+       <td align="center">JavaScript<br>
         <span align="center"><img src="https://skillicons.dev/icons?i=javascript"/></span>
         </td>
       <td align="center">XML<br>
