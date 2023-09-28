@@ -119,6 +119,9 @@ Formerly _West Bengal University of Technology_
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <!--![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)--> ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## 📛 Badges
+
+[![An image of @Subha5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Subha5)](https://holopin.io/@Subha5)
 
 ## 🙏 Acknowledgements
 
